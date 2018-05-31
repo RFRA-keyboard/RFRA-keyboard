@@ -1,0 +1,4 @@
+- `make_diff.rb`
+  - Make differential data from binary data of float.
+- `decoder.rb`
+  - Analyze the difference data and print the keys
